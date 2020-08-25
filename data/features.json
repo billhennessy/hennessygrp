@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Loyalty Experts",
+    "description": "Our Chief Loyalty Officer is a leading loyalty marketing thought leader who invented the Mulit-Dimensional Loyalty Model.",
     "image": "features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Peruasive Design",
+    "description": "All members of our team Persuasive Design masters.",
     "image": "features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Persuasive Technology",
+    "description": "Our technical experts specialize in technology to improve the persuasivenes of brands.",
     "image": "features/noun_3d modeling_1885342.svg"
   }
 ]
