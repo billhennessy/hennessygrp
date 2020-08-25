@@ -1,25 +1,26 @@
 ---
-title: 'Business Sales'
+title: 'Persuasive Mindset Lab'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
 draft: false
-heroHeading: 'Business Sales'
+heroHeading: 'Persuasive Mindset Lab'
 heroSubHeading: 'We can help value your business and prepare it for sale.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Why keep paying a persuasive design consultant when you can shift your thinking to the persuasion mindset? 
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Organizations who've experienced the Persuasive Mindset Lab&trade; become natural persuasion thinkers. Everything e-mails to conversations become easier and more productive. Soon, your default designs of emails, social posts, and rules become more persuasive by default.
 
-## Geniti facinus praeruptam atris ab manus in
+Here's what's included the Persuasive Mindset Lab 
+
+- A series of three, simple and fun pre-lab assignments
+- Two half-day, immersive, live sessions
+- A post-lab report that captures your mindset shift
+- Perpetual access to your secure lab report 
+
+## 
 
 Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
 non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum

@@ -1,30 +1,27 @@
 ---
-title: 'Mergers'
+title: 'Persuasive Technology'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroHeading: 'Needs-based Technology'
+heroSubHeading: 'Assessment, recommendations, and integrations.'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+The best design becomes frustrating if your technology can't experess it to the audience. And the best technology is useless if it can't implement your persuasive design.
 
-## Ne verba patulosque numen vix libet
+Our persuasive technology experts will assess your current technology landscape in light of our persuasive program design. If it's a fit, we will help your technologists implement the design. If not, we work with the best technology providers with systems built for your situation. 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Impementation Assistance
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Whether it's your current technology or something new, we will provide ample implementation assistance. 
+
+1. Resource planning for your technology team
+2. Well-documented APIs 
+3. Mobile SDKs
+4. Expert integration assistance for SFDC
+5. Experts on our partner platform operations for short or long-term operational support
 
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
 dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
