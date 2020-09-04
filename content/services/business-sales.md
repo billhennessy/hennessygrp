@@ -20,35 +20,11 @@ Here's what's included the Persuasive Mindset Lab
 - A post-lab report that captures your mindset shift
 - Perpetual access to your secure lab report 
 
-## 
+## Build Internal Advocates
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+Five years after their first lab, a customer planned a second. Someone suggested saving money on the next lab by reducing the participant count from 25, which is standard, to just five or six. The executive sponsor shot that down quickly:
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+"Are you kidding? The first lab saved us a fortune in time and money because it produced 25 internal advocates from every department. Without all those people being involved, we would have needed a six-month change management campaign just to get our own people onboard. If anything, we should *add* people to the lab."
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+When your team leaves the lab to execute the new approach, they will leave with a strong sense of ownership. And a thorough understanding of the *intent*. You won't need to engage your change management consultants—you'll have your own. And nothing sells like entusiasm. 
 
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.

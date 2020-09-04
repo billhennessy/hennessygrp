@@ -1,31 +1,31 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "The Hennessy Group"
 theme = "hugo-hero-theme"
 
 [params]
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "We make your loyalty and incentive programs with persuasive design and persuasive technology."
+    meta_og_title = "The Hennessy Group"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.com"
+    meta_og_url = "https://hennessygrp.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_description = "The Hennessy Group LLC provides loyalty and incentive advisory to companies who believe in people."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@hennessygroup"
+    meta_twitter_creator = "@hennessygroup"
 
 [[menu.main]]
 	name = "Services"
 	url = "/services/"
     weight = 1
 
-[[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
+# [[menu.main]]
+#     name = "Work"
+#     url = "/work/"
+#     weight = 2
 
 [[menu.main]]
     name = "About"
