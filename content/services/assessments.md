@@ -1,5 +1,5 @@
 ---
-title: 'Assessments'
+title: 'Assessments and Audits'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
@@ -29,3 +29,11 @@ A program health assessment from The Hennessy Group will answer your lingering q
 6. Should I be looking to other industries for ideas? 
 
 That's the benefit of working with an experienced partner who's worked in many industries, from airlines to hotels, retail to automotive, pharmaceutical to manufacturing of every kind. We can see how your efforts stack up, not just against competitors, but against programs across the broad economy.
+
+## Persuasion Audit
+
+Does your conversion process, drip campaign, or chatbot work as well as it could? Does it even work as well as you'd like?
+
+When we apply persuasive design to your conversion process, we will get at least a 10 percent, guaranteed[^1].
+
+[^1]: If, after 90 days your conversions have not increased by 10 percent, you pay nothing but actual costs for time and material. 

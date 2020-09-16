@@ -23,31 +23,20 @@ Whether it's your current technology or something new, we will provide ample imp
 4. Expert integration assistance for SFDC
 5. Experts on our partner platform operations for short or long-term operational support
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Technology Matched to Design
 
-## Postquam tamen
+Unlike many firms who design solutions to fit their technology, we continously explore the best backend engines and platforms, allowing us to recommend a tech stack perfect for the design. 
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Requirements for our technology partners include:
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+1. Well-documented APIs.
+2. Ability to create proofs-of-concept.
+3. Scalability in both price and performance.
+4. Top-shelf security.
+5. Internationalization and localization.
+6. Financial stability.
+7. Great support and service. 
+8. Pleasure to work with.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+In other words, our partners' standards must be at least as high as yours and ours. 
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
