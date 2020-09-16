@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Assessments</title>
-      <link>/services/accounting/</link>
+      <title>Assessments and Audits</title>
+      <link>/services/assessments/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/services/accounting/</guid>
+      <guid>/services/assessments/</guid>
       <description>You&amp;rsquo;ve been operating the same program for years. You&amp;rsquo;re pretty confident of two things:
  People seem to like it. It could probably be more effective.  The trouble is, how do you know? How do you know whether your program is among the best or if it&amp;rsquo;s an also-ran? How do you know the program&amp;rsquo;s ROI? How do you even measure the ROI of a program like yours?
 We Can Tell You How Your Program Is Working A program health assessment from The Hennessy Group will answer your lingering questions:</description>
@@ -30,6 +30,17 @@ We Can Tell You How Your Program Is Working A program health assessment from The
       <guid>/work/fall-plaza/</guid>
       <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+    </item>
+    
+    <item>
+      <title>Gamification</title>
+      <link>/services/gamification/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/gamification/</guid>
+      <description>Gamification is enjoying its second wind. We&amp;rsquo;ve been studying and applying gamification since before its first wind.
+We are among the few firms led by a certified gamificaiton expert who helped pioneer the use of game components, game mechanics, and game dynamics into business processes in 2010.
+1n 2013, we applied gamification to a mature loyalty program for doctors. The redesigned components produced and 11 to 1 ROI, and the program overall produced a 3 to 1 ROI in just one year.</description>
     </item>
     
     <item>
@@ -93,10 +104,10 @@ Our persuasive technology experts will assess your current technology landscape 
     
     <item>
       <title>Persuasive Mindset Lab</title>
-      <link>/services/business-sales/</link>
+      <link>/services/pmlab/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>/services/business-sales/</guid>
+      <guid>/services/pmlab/</guid>
       <description>Why keep paying a persuasive design consultant when you can shift your thinking to the persuasion mindset?
 Organizations who&amp;rsquo;ve experienced the Persuasive Mindset Lab™ become natural persuasion thinkers. Everything e-mails to conversations become easier and more productive. Soon, your default designs of emails, social posts, and rules become more persuasive by default.
 Here&amp;rsquo;s what&amp;rsquo;s included the Persuasive Mindset Lab
@@ -105,20 +116,20 @@ Here&amp;rsquo;s what&amp;rsquo;s included the Persuasive Mindset Lab
     
     <item>
       <title>Persusion Therapy</title>
-      <link>/services/superannuation/</link>
+      <link>/services/persuasion-therapy/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>/services/superannuation/</guid>
+      <guid>/services/persuasion-therapy/</guid>
       <description>Persuasion is not about manipulation or tricking people into doing what you. It&amp;rsquo;s helping them get what they want, in the context of your business.
 For example, we help job seekers complete the application process on behalf of staffing firms. The job seekers need and want meaningful work with commenserate pay. The staffing firm wants to fill a requisition. The employer wants to get work done. Using persuasive design techniques and the best-fit technology, we help the job seeker overcome the barriers.</description>
     </item>
     
     <item>
       <title>Loyalty Advisory</title>
-      <link>/services/business-advisory/</link>
+      <link>/services/loyalty-advisory/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>/services/business-advisory/</guid>
+      <guid>/services/loyalty-advisory/</guid>
       <description>True Loyalty means retaining your best customers by building resistence to competitive offers.
 While a loyalty program can&amp;rsquo;t make up for deficiencies in service or quality, it can be a differentiator.
 With over 15 years of experience in building loyalty for some of the biggest iconic brands in America, we will guide your team in designing the perfect loyalty program for your valued customers. Our Loyalty Advisory group can help with:</description>

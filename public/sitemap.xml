@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/services/accounting/</loc>
+    <loc>/services/assessments/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
   <url>
     <loc>/work/fall-plaza/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/services/gamification/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -48,17 +53,17 @@
   </url>
   
   <url>
-    <loc>/services/business-sales/</loc>
+    <loc>/services/pmlab/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/services/superannuation/</loc>
+    <loc>/services/persuasion-therapy/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/services/business-advisory/</loc>
+    <loc>/services/loyalty-advisory/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
