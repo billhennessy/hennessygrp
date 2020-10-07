@@ -3,7 +3,7 @@ title: 'Second Look Analysis'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-6.png'
 draft: false
-featured: true
+featured: false
 weight: 2
 heroHeading: 'Second Look Analysis'
 heroSubHeading: 'Preparing and filing your tax return'

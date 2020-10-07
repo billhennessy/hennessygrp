@@ -3,7 +3,7 @@ title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'aboutlayout'
 heroHeading: 'About Us'
-heroSubHeading: "With a combined 105 years experience, we're a team of advisors that puts your business first."
+heroSubHeading: "With a combined 40 years experience, we're a team of advisors that puts your business first."
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
